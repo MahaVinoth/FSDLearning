@@ -1,0 +1,12 @@
+Window Object:
+
+==> Window object is top most object/global object which is represent a browser window/frame, will display content of the web page and the entire JavaScript code is executed..
+==> Access the overall properties related to window and document.
+==> Example: window.width
+
+Document:
+
+==> Document is a object which is contain all html elements in it and loaded under the window object.
+==> One of object of widnow object.
+==> Cant access window object from document.
+==> Example: document.title
