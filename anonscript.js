@@ -194,7 +194,6 @@ getPalindromeArrow(['refer', 'level', 'cool']);
 })(['ada','noon','devil']);
 //*************************************************************************//
 
-//IIFE Function
 //Return median of two sorted arrays of the same size.
 //merge two array as one
 //sort the whole array.
@@ -256,15 +255,3 @@ let rotateKTimes = function(param){
     return inArray1;
 };
 console.log(rotateKTimes(2));
-//Programs in arrow functions.
-// const oddArrow = [8, 19, 5, 6, 14, 9, 13];
-// let oddNumArrow = [];
-// let oddNumArrFunc = (oddArrow) => {
-//     for(let i=0; i< oddArrow.length;i++){
-//         if(oddArrow[i]%2 ==1){
-//             oddNumArrow.push(oddArrow[i]);
-//         }
-//     }
-//     return oddNumArrow;
-// }
-// console.log(oddNumArrFunc(oddArrow));
